@@ -1,0 +1,405 @@
+
+
+a{
+   text-align: center;
+   text-decoration: none;
+   padding: 50px 100px;
+}
+.abc{
+    font-family:fantasy;
+    text-decoration: none;
+    height: 900px;
+    width: 950px;
+    border-color: blueviolet;background-color:beige ;
+
+}   
+ .db{
+      height: 800px;
+      width: 850px;
+      background-color: chartreuse;
+    border-radius: 5%;
+      text-align: center;
+ }
+  
+    
+strong{
+    text-underline-position:auto;
+    text-decoration-color: #e7e7e7;
+    background-color: rgb(251, 255, 127);
+    background-color: rgb(151, 144, 139);
+
+}
+aside{
+    border-top: 5px solid#165416;
+    border-right: 5px solid#165416;
+    border-left: 5px solid#165416;
+    border-bottom: 5px solid#165416;
+    background-color: rgb(171, 152, 245);
+    
+}
+.video{
+    background-color:#3e9377;
+}
+h1{
+    
+    text-align: center;
+    color: rgb(250, 240, 248);
+    background-color: rgb(239, 18, 184);
+    font-size: xx-large;
+    
+    background-position: 0mm;
+    border: 0vmax;
+    text-decoration: dotted;
+    text-overflow:ellipsis;
+    text-shadow: #165416;
+margin: 0mm;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Dipta{
+    height: 400px;
+    width: 500px;
+}
+.Dipta2{
+    height: 400px;
+    width: 500px;
+}
+.Dipta3{
+    height: 400px;
+    width: 500px;
+}
+.Dipta4{
+    height: 400px;
+    width: 500px;
+}
+.Dipta5{
+    height: 400px;
+    width: 500px;
+}
+.Dipta6{
+    height: 400px;
+    width: 500px;
+}
+.Dipta7{
+    height: 400px;
+    width: 500px;
+}
+.Dipta8{
+    height: 400px;
+    width: 500px;
+}.Dipta9{
+    height: 400px;
+    width: 500px;
+}
+.Dipta11{
+    height: 400px;
+    width: 500px;
+}
+
+.Dipta10{
+    height: 200px;
+    width: 200px;
+    background-color: olive;
+}
+.Dipta1{
+    height: 400px;
+    width: 500px;
+}
+.banik{
+    background-color: #dea9a6;
+   
+}
+article{
+  color: #04AA6D;
+  font:normal  bold 12px/30px Georgia, serif;
+
+}
+.dipta{
+    height: 500px;
+    width: 850px;
+    text-align:right;
+    color: rgb(240, 247, 250);
+    background-color: rgb(42, 39, 212);
+  padding: 10px 10px;
+    font-size: 16px;
+  
+    border-radius:  10%
+}
+.aloo{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+}
+.alo{ height: 300px;
+    width: 300px;
+    text-align: center;
+}
+.shiddo{
+    height: 400px;
+    width: 500px;
+}
+body{
+    background-origin:padding-box;
+}
+
+h2{
+    text-align: center;
+    color: rgb(242, 23, 23);
+    background-color: rgb(237, 239, 246);
+
+}
+.button{
+
+background-color: #b4c4be;
+}
+.b6{
+    text-align:center;
+    font-size: small;
+    
+}
+.btn{
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.button0{
+    color: rgb(6, 0, 128);
+    position: relative;
+    display: inline-block;
+    margin: 1em;
+    padding: 1em 2em;
+    border: 0;
+    border-radius: 30px;
+    text-align: center;
+    
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+.button0:hover {
+    background-color: #90c4b1;
+    color: rgb(211, 93, 93);}
+.button1 {
+    color: green;
+    position: relative;
+    display: inline-block;
+    margin: 1em;
+    padding: 1em 2em;
+    border: 0;
+    border-radius: 30px;
+    text-align: center;
+    
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+
+}
+
+.button1:hover {
+    background-color: #04AA6D;
+    color: white;
+}
+
+.button2 {
+    color: dodgerblue;
+    position: relative;
+    display: inline-block;
+    margin: 1em;
+    padding: 1em 2em;
+    border: 0;
+    border-radius: 30px;
+    text-align: center;
+    
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+.button2:hover {
+    background: #2196F3;
+    color: white;
+}
+
+
+.button3 {
+    color: orange;
+    position: relative;
+    display: inline-block;
+    margin: 1em;
+    padding: 1em 2em;
+    border: 0;
+    border-radius: 30px;
+    text-align: center;
+    
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+.button3:hover {
+    background: #ff9800;
+    color: white;
+}
+
+.button4{
+    color: red;
+    position: relative;
+    display: inline-block;
+    margin: 1em;
+    padding: 1em 2em;
+    border: 0;
+    border-radius: 30px;
+    text-align: center;
+    
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+.button4:hover {
+    background: #f44336;
+    color: white;
+}
+
+.button5 {
+    color:gray;
+    position: relative;
+    display: inline-block;
+    margin: 1em;
+    padding: 1em 2em;
+    border: 0;
+    border-radius: 30px;
+    text-align: center;
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+.button5:hover {
+    background: #e7e7e7;
+}
+
+.button6 {
+    color:gray;
+    position: relative;
+    display: inline-block;
+    margin: 1em;
+    padding: 1em 2em;
+    border: 0;
+    border-radius: 30px;
+    text-align: center;
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+.button6:hover {
+    background: #e7e7e7;
+}
+.back{
+    background-color: rgb(218, 218, 227);
+    font-style:normal;
+    text-decoration:lime;
+    text-decoration-color: rgb(208, 77, 77);
+    font-size:x-large;
+border-radius:  50px;
+border-style: hidden;
+border-right-style: dotted;
+border-left-style: dotted;
+border-end-end-radius: 50px;
+background-position: 0mm;
+border: 0vmax;
+text-decoration: dotted;
+text-overflow:ellipsis;
+text-shadow: #165416;}
+.NEXT{
+    background-color: rgb(218, 218, 227);
+    font-style:normal;
+    text-decoration:lime;
+    text-decoration-color: rgb(208, 77, 77);
+    font-size:x-large;
+border-radius:  50px;
+border-style: hidden;
+border-right-style: dotted;
+border-left-style: dotted;
+border-end-end-radius: 50px;
+background-position: 0mm;
+border: 0vmax;
+text-decoration: dotted;
+text-overflow:ellipsis;
+text-shadow: #165416;}
+
+body { 
+    text-align: center; 
+  
+  }
+  
+  /* heart div class - in html i used just a simple html simbol entity for heart sign, you can use text or whatever u want*/
+  
+  .heart {
+      font-size: 100px;
+      color: #e00;
+      animation: beat .70s infinite alternate;
+      transform-origin: center;
+      
+  }
+  
+  /* Heart beat animation */
+  @keyframes beat{
+      to { transform: scale(1.4); }
+  }
+  .audio{
+    background-color: green;
+  }
+/*
+.........
+.button1{
+    background-color: aquamarine;
+    text-align: center;
+    color: blue;
+    font:bold;
+    display: block;
+    box-sizing: border-box;
+
+    
+}
+.button2{
+    text-align: center;
+    display: block;
+    font:bold;
+    background-color: rgb(0, 255, 85);
+    color: blue;
+    box-sizing: border-box;
+
+}
+.button3{
+    background-color: aquamarine;
+    text-align: center;
+    color: blue;
+    font:bold;
+    display: block;
+    box-sizing: border-box;
+}
+.button4{
+    
+    text-align: center;
+    display: block;
+    font:bold;
+    background-color: rgb(0, 255, 85);
+    color: blue;
+    box-sizing: border-box;
+}
+.button5{
+    
+    background-color: aquamarine;
+    text-align: center;
+    color: blue;
+    font:bold;
+    display: block;
+    box-sizing: border-box;
+}
+
+}.........*/
